@@ -1,6 +1,6 @@
 <h1 align="center"> Recicla Legal </h1>
 
-MVP
+<h1 align="center"> Um MVP criado para contribuir com o presente trabalho </h1>
 
 
 
@@ -8,4 +8,25 @@ MVP
 
 
 
-   
+   <table border="1" cellpadding="1" cellspacing="1" style="width:500px">
+	<tbody>
+		<tr>
+		<td><img alt="" height="600" src="https://github.com/danicampos01/Recicla-Legal/blob/main/capa.png" width="300" /></td>
+			<td><img alt="" src="https://github.com/danicampos01/Recicla-Legal/blob/main/WhatsApp%20Image%202023-11-29%20at%2021.12.54.jpeg" /></td>
+			<td><img alt="" src="https://github.com/danicampos01/Recicla-Legal/blob/main/WhatsApp%20Image%202023-11-29%20at%2021.12.53.jpeg" /></td>
+		</tr>
+		<tr>
+			<td><img alt="" src="https://github.com/danicampos01/Recicla-Legal/blob/main/WhatsApp%20Image%202023-11-29%20at%2021.12.53%20(3).jpeg" /></td>
+			<td><img alt="" src="https://github.com/danicampos01/Recicla-Legal/blob/main/WhatsApp%20Image%202023-11-29%20at%2021.12.53%20(2).jpeg" /></td>
+			<td><img alt="" src="https://github.com/danicampos01/Recicla-Legal/blob/main/WhatsApp%20Image%202023-11-29%20at%2021.12.53%20(1).jpeg" /></td>
+		</tr>
+		<tr>
+			<td><img alt="" src="https://github.com/danicampos01/Recicla-Legal/blob/main/WhatsApp%20Image%202023-11-29%20at%2021.12.52.jpeg" /></td>
+			<td><img alt="" src="https://github.com/danicampos01/Recicla-Legal/blob/main/WhatsApp%20Image%202023-11-29%20at%2021.12.52%20(1).jpeg" /></td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
